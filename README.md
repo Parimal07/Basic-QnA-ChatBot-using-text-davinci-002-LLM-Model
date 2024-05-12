@@ -28,7 +28,7 @@ Generative AI Q&A is a simple application built with Python's Tkinter library an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/generative-ai-qa.git
+   git clone [https://github.com/your_username/generative-ai-qa.git](https://github.com/Parimal07/Basic-QnA-ChatBot-using-text-davinci-002-LLM-Model.git)
    ```
 2. Install the required dependencies:
    ```bash
