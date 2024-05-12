@@ -32,7 +32,7 @@ Generative AI Q&A is a simple application built with Python's Tkinter library an
    ```
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install [dependency]
    ```
 3. Obtain an API key from [Eden AI](https://www.edenai.co) and replace `YOUR_API_KEY` in the code with your actual API key.
 
